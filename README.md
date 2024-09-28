@@ -1,2 +1,2 @@
 # JSF
-Java7
+Java8, TomCat8
